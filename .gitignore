@@ -1,3 +1,15 @@
+# environnement virtuel
 .venv/
+
+# Dataset
 asset/
+
+# Cache
 __marimo__/
+__pycache__/
+
+# Modèles entraînés
+models/
+
+# img graph
+*.png

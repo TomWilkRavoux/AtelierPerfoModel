@@ -7,6 +7,10 @@ requires-python = ">=3.12"
 dependencies = [
     "marimo>=0.23.10",
     "numpy>=2.4.6",
-    "polar>=0.0.127",
+    "polars>=1.0.0",
     "torch>=2.12.1",
+    "torchvision>=0.20.0",
+    "scikit-learn>=1.5.0",
+    "matplotlib>=3.9.0",
+    "pillow>=10.0.0",
 ]
